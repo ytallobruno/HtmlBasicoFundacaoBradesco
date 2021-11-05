@@ -1,5 +1,5 @@
 # primeirohtml
-Nesse repositório vou postar meus primeiros html's feitos durante o curso básico da fundação bradesco.
+Nesse repositório vou postar meus primeiros html's feitos durante o curso básico com carga horária de 11h da fundação bradesco.
 
 <b>O curso foi dividido em 9 módulos, sendo eles:</b><br>
    <ul>
